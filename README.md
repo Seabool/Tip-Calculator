@@ -1,20 +1,16 @@
 # Project Title
 
-Basic ToDo List
+Tip Calculator
 
 ## About
 
-It is very basic list, where you can add your tasks to do. You can see it [here](https://seabool.github.io/Tip-Calculator/).
+You can calculate how much money you should give to bartender as a tip. You can see it [here](https://seabool.github.io/Tip-Calculator/).
 
 ## Built With
 
 * **HTML**
 * **CSS**
 * **JavaScript**
-
-## In the future
-
-Probably I would like to change responsivity, because now I think it's very poor.
 
 ## Author
 
