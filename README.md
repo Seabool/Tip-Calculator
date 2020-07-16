@@ -4,7 +4,7 @@ Tip Calculator
 
 ## About
 
-You can calculate how much money you should give to bartender as a tip. You can see it [here](https://seabool.github.io/Tip-Calculator/).
+You can calculate how much money you should give to bartender as a tip. It was made just for fun! You can see it [here](https://seabool.github.io/Tip-Calculator/).
 
 ## Built With
 
