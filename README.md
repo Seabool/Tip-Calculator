@@ -4,7 +4,7 @@ Basic ToDo List
 
 ## About
 
-It is very basic list, where you can add your tasks to do. You can see it [here]().
+It is very basic list, where you can add your tasks to do. You can see it [here](https://seabool.github.io/Tip-Calculator/).
 
 ## Built With
 
