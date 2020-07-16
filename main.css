@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden
+}
+
+input {
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#mainFrame {
+    width: 350px;
+    margin: auto;
+    text-align: left;
+    border-radius: 25px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#mainFrameHeader {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2px;
+}
+
+#mainFrameContent {
+    background-color: white;
+    padding: 10px;
+    padding-bottom: 50px;
+}
+
+#calculateButtonDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#calculateButton {
+    background-color: darkred;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 20px;
+    display: inline-block;
+}
+
+#calculateButton:hover {
+    cursor: pointer;
+}
+
+#opinion {
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#gradient {
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+    background-size: 400% 400%;
+    animation: Gradient 15s ease infinite;
+}
+
+@keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
